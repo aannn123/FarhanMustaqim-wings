@@ -12,14 +12,10 @@
 8. untuk login
     <br>
         user
-    <br>
         - username : john
-    <br>
         - password: john123
     <br>
         admin
-    <br>
         - username : admin
-    <br>
         - password : admin123
         
