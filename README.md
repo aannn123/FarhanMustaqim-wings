@@ -9,10 +9,12 @@
 5. jalankan php artisan migrate
 6. jalankan php artisan db:seed --class=UserSeeder dan php artisan db:seed --class=ProductSeeder
 7. jalankan php artisan serve
-8. untuk login user
+8. untuk login
+    <br>
         user
         - username : john
         - password: john123
+    <br>
         admin
         - username : admin
         - password : admin123
