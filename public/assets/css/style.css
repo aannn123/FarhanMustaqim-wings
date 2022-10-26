@@ -1,0 +1,23 @@
+.dummy-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: cyan;
+    margin-right: 40px;
+}
+
+.dummy-image-detail {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: cyan;
+    margin-right: 40px;
+}
+
+.dummy-image-cart {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: cyan;
+    margin-right: 40px;
+}
